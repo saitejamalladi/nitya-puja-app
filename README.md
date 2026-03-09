@@ -1,2 +1,2 @@
-# nitya-puja
+# nitya-puja-app
 Nitya Puja App
